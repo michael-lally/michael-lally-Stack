@@ -61,6 +61,6 @@ public class Lab {
      * @return the value peeked from the top of the deque.
      */
     public String getTopOfStackWithoutRemoving(Deque<String> stack){
-        return stack.peek();
+        return stack.peek(); 
     }
 }
